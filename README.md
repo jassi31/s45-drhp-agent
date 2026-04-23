@@ -1,4 +1,4 @@
-## S45 DRHP Agent (take-home)
+## S45 DRHP Agent
 
 This repo contains:
 - **Dummy datasets** for `SH-7` and `PAS-3` packets under `data/sample_dataset/`
