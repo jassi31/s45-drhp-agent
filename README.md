@@ -23,6 +23,8 @@ cp .env.example .env
 
 Then set `OPENAI_API_KEY` in `.env`.
 
+Note: The sample output in `output/` was generated using my personal `OPENAI_API_KEY`. To reproduce it, set your own key and run the pipeline.
+
 ### Run
 
 ```bash
